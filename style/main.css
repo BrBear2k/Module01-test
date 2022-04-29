@@ -1,0 +1,19 @@
+body{
+    background: aquamarine;
+}
+h1{
+    background-color: blueviolet;
+    color:blue;
+    max-width: 200px;
+    text-align: center;
+    border: 2px solid;
+}
+p{
+   color: brown;
+}
+li{
+    color:blueviolet;
+}
+a{
+    color: black;
+}
