@@ -6,10 +6,7 @@ body{
     display: flex;
     border-bottom: 1px solid #000;
     align-items: center;
-    margin-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding: 10px 20px;
     font-size: 20px;
 }
 .logo {
@@ -18,6 +15,7 @@ body{
     color: lightgreen;
     background-color: rebeccapurple;
     padding: 5px 15px;
+    font-weight: 700;
 }
 ul {
     display: flex;
@@ -42,7 +40,7 @@ ul > li {
     padding-bottom: 20px;
 }
 .footer{
-    font-size: -13px;
+    font-size: 13px;
     padding-left: 20px;
     padding-right: 20px;
 }
@@ -66,5 +64,5 @@ h1, h2, h3{
     margin-left: 10px;
 }
 ul>li:last-child{
-    margin-right: o;
+    margin-right: 0;
 }
